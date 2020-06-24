@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quran Player</string>
+    <string name="welcome_msg">Welcome to The Muslim Quran Player</string>
+    <string name="tracks">Surahs</string>
+    <string name="artists">Reciters</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="reciters">Reciters</string>
+    <string name="surahs">Surah\'s</string>
+</resources>
