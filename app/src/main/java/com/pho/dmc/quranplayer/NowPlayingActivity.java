@@ -39,6 +39,7 @@ public class NowPlayingActivity extends AppCompatActivity {
         Intent intent = getIntent();
         Item surah = intent.getParcelableExtra("surah");
 
+        assert surah != null;
         int npImage = surah.getImageSourceId();
         String npSurah = surah.getSurahName();
         final String npReciter = surah.getReciterName();
